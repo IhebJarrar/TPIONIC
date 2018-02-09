@@ -1,0 +1,8 @@
+{
+  "name": "helloWorld",
+  "app_id": "d2444789",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
